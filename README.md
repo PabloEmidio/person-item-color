@@ -14,7 +14,7 @@
   - [ ] Backend coding
       - [ ] Flask routes and API
       - [ ] SQLAlchemy data modelling
-      - [ ] Unit test (90+ covering)
+      - [ ] Unit test (90%+ covering)
       - [ ] Docker
   - [x] Initial README
 
