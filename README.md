@@ -16,7 +16,7 @@
       - [ ] SQLAlchemy data modelling
       - [ ] Unit test (90+ covering)
       - [ ] Docker
-  - [ ] Initial README
+  - [x] Initial README
 
 ---
 
