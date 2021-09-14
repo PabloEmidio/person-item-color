@@ -6,7 +6,7 @@
 # Project planning:
 **Here we have a basic representation of project's planning, an overview. For more detailed and fast updated view, go to [Project's Board](https://github.com/PabloEmidio/person-item-color/projects/1)**
    - [x] SQL database design and modeling - done in [issue #1](https://github.com/PabloEmidio/person-item-color/issues/1)
-   - [ ] Page frontend design
+   - [x] Page frontend design - done in [issue #2](https://github.com/PabloEmidio/person-item-color/issues/2)
    - [ ] Frontend coding
       - [ ] HTML modelling
       - [ ] CSS/Bootstrap layout
